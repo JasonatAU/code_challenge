@@ -1,1 +1,224 @@
-[]
+[
+  {
+    "id": "1",
+    "name": "Carol Danvers",
+    "heroName": "Captain Marvel",
+    "description": "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+    "backgroundImageUrl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/008cmv_com_mas_dsk_02_0.jpg",
+    "powers": [
+      {
+        "powerName": "Energy Blasts",
+        "powerDescription": "Carol Danvers’ mutated DNA gave her the capacity to generate and produce concussive energy blasts from her hands.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/008cmv_com_pwr_01_1.jpg"
+      },
+      {
+        "powerName": "Flight in Space",
+        "powerDescription": "Captain Marvel has the power of flight, which she uses in tandem with her ability to breathe in the vacuum of space to journey at super speed throughout the cosmos.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/008cmv_com_pwr_02_0.jpg"
+      },
+      {
+        "powerName": "Binary Powers",
+        "powerDescription": "Carol’s Binary powers, though largely dormant, can bestow her with the might of a white hole, allowing her to generate and control any form of radiation or gravity",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/008cmv_com_pwr_03.jpg"
+      },
+      {
+        "powerName": "Superhuman Strength",
+        "powerDescription": "When Carol Danvers’ body was infused with Kree powers, she became a paragon of superhuman strength, agility, reflexes, and endurance.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/008cmv_com_pwr_04_1.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "T'Challa",
+    "heroName": "Black Panther",
+    "description": "T’Challa is the king of the secretive and highly advanced African nation of Wakanda - as well as the powerful warrior known as the Black Panther.",
+    "backgroundImageUrl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/007blp_com_mas_dsk_04.jpg",
+    "powers": [
+      {
+        "powerName": "Cat-Like Reflexes",
+        "powerDescription": "Black Panther’s cat-like reflexes and agility make catching his enemies’ weapons a simple task!",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/007blp_com_pwr_01.jpg"
+      },
+      {
+        "powerName": "Master Martial Artist",
+        "powerDescription": "Martial arts-style fighting techniques are an integral part of Black Panther’s ability to maintain his title.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/007blp_com_pwr_02.jpg"
+      },
+      {
+        "powerName": "Dora Milaje",
+        "powerDescription": "Wakanda’s King is always prepared to take up arms alongside the Dora Milaje.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/007blp_com_pwr_03.jpg"
+      },
+      {
+        "powerName": "Wakanda's Vibranium",
+        "powerDescription": "T’Challa has benefited from Wakanda’s vast natural and technological resources and incorporated vibranium and advanced weaponry into his suit.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/007blp_com_pwr_04.jpg"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Peter Parker",
+    "heroName": "Spider-Man",
+    "description": "Bitten by a radioactive spider, Peter Parker’s arachnid abilities give him amazing powers he uses to help others, while his personal life continues to offer plenty of obstacles.",
+    "backgroundImageUrl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/005smp_com_mas_dsk_05_1.jpg",
+    "powers": [
+      {
+        "powerName": "Webcrawler & Superhuman Strength",
+        "powerDescription": "Spider-Man is known as the wallcrawler for a reason—his hands and feet allow him to climb vertically and upside down, and his speed, superhuman strength, and leaping ability make him the most agile Super Hero around.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/005smp_com_pwr_01_1.jpg"
+      },
+      {
+        "powerName": "Spider-Sense",
+        "powerDescription": "Spider-Man’s “spider-sense” grants him a high level of awareness, allowing him to respond to impending danger and to gauge the direction its coming from.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/005smp_com_pwr_02.jpg"
+      },
+      {
+        "powerName": "Web-Shooter",
+        "powerDescription": "Among the many inventions that Peter Parker has created to augment his spider abilities are his signature web-shooters, which connect to his wrists and allow him to spray a “webbing” that he uses to swing on or fight with.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/005smp_com_pwr_01.jpg"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Tony Stark",
+    "heroName": "Iron Man",
+    "description": "Genius. Billionaire. Playboy. Philanthropist. Tony Stark's confidence is only matched by his high-flying abilities as the hero called Iron Man.",
+    "backgroundImageUrl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/002irm_com_mas_dsk_02.jpg",
+    "powers": [
+      {
+        "powerName": "360 Vision",
+        "powerDescription": "Iron Man’s helmet provides Tony with a heads-up display that gives him 360-degree vision and access to information about his surroundings and enemies.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/002irm_com_pwr_01_050218_a_xl.jpg"
+      },
+      {
+        "powerName": "Energy Blasts",
+        "powerDescription": "A weapon centered in Iron Man’s chest, the unibeam is capable of projecting dazzling light, and can also be used as a powerful force beam.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/002irm_com_pwr_02_050218_a_xl.jpg"
+      },
+      {
+        "powerName": "Repulsor Rays",
+        "powerDescription": "The primary weapon contained within every suit, the repulsor rays use energy pulses to repel and disrupt enemies and are generated through the suit’s gauntlets.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/002irm_com_pwr_03_050218_a_xl.jpg"
+      },
+      {
+        "powerName": "Extremis",
+        "powerDescription": "When using Extremis, Tony can interface with his brain’s repair center, which allows him to rebuild his body from scratch.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/002irm_com_pwr_04_050218_a_xl.jpg"
+      },
+      {
+        "powerName": "Collection of Armor",
+        "powerDescription": "Tony has created many examples of mission-specific armor, including deep-space, underwater and stealth suits, along with the Hulkbuster armor.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/002irm_com_pwr_05_050218_a_xl.jpg"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Steve Rogers",
+    "heroName": "Captain America",
+    "description": "Recipient of the Super-Soldier serum, World War II hero Steve Rogers fights for American ideals as one of the world’s mightiest heroes and the leader of the Avengers.",
+    "backgroundImageUrl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/003cap_com_mas_dsk_01_0.jpg",
+    "powers": [
+      {
+        "powerName": "Slowed Aging Process",
+        "powerDescription": "Captain America’s Super-Soldier treatment dramatically slowed his aging process, allowing him to survive decades frozen in ice near the Arctic circle before emerging to resume life as one of Earth’s most powerful Super Heroes.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/003cap-com-pwr-1.jpg"
+      },
+      {
+        "powerName": "Vibranium Shield",
+        "powerDescription": "Captain America’s signature weapon is a circular shield partially composed of vibranium, which makes it lightweight, perfectly balanced, and virtually indestructible.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/003cap-com-pwr-2.jpg"
+      },
+      {
+        "powerName": "Super-Soldier Serum",
+        "powerDescription": "The Super-Soldier serum given to Steve Rogers converted him into a mighty warrior with strength, stamina, and agility that exceed the traits of any challenger.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/003cap-com-pwr-3.jpg"
+      },
+      {
+        "powerName": "Leader & Strategist",
+        "powerDescription": "Steve Rogers is an ideal leader and strategist, with the charisma and foresight that makes him the obvious choice to command nearly every super team he’s been a member of.  ",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/003cap-com-pwr-4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Natasha Romanoff",
+    "heroName": "Black Widow",
+    "description": "Despite super spy Natasha Romanoff’s checkered past, she’s become one of S.H.I.E.L.D.’s most deadly assassins and a frequent member of the Avengers.",
+    "backgroundImageUrl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/011blw_com_mas_mob_02.jpg",
+    "powers": [
+      {
+        "powerName": "Superhuman Agility",
+        "powerDescription": "Black Widow is a deadly one-woman fighting force. An expert in many forms of martial arts, she is also a skilled gymnast and possesses superhuman strength, speed, agility, and endurance.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/011blw_com_pwr_01.jpg"
+      },
+      {
+        "powerName": "Espionage",
+        "powerDescription": "Black Widow is as deadly in darkness as she is in light; as a highly trained super spy, Natasha Romanoff stands among the greatest covert assassins in the world.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/011blw_com_pwr_02.jpg"
+      },
+      {
+        "powerName": "Slowed Aging",
+        "powerDescription": "In addition to her deadly skills, Romanoff also ages at an incredibly slowed rate—much like Captain America—thanks to a variant of the Super-Soldier serum that she was once given.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/011blw_com_pwr_03.jpg"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Clint Barton",
+    "heroName": "Hawkeye",
+    "description": "A master marksman and longtime friend of Black Widow, Clint Barton serves as the Avengers’ amazing archer.",
+    "backgroundImageUrl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/018hcb_com_mas_dsk_02.jpg",
+    "powers": [
+      {
+        "powerName": "Unique Arrows",
+        "powerDescription": "A suction-tipped arrow lets Hawkeye scale great heights.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/018hcb_com_pwr_03.jpg"
+      },
+      {
+        "powerName": "Archery",
+        "powerDescription": "Clint’s quiver doesn’t have to be limited to just one arrow.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/018hcb_com_pwr_02.jpg"
+      },
+      {
+        "powerName": "Attack Arrows",
+        "powerDescription": "Clint can use his arrows as delivery devices for additional modes of attack.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/018hcb_com_pwr_04.jpg"
+      },
+      {
+        "powerName": "Hand-to-Hand Combat",
+        "powerDescription": "In a pinch, Hawkeye is backed up by hand-to-hand combat. ",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/018hcb_com_pwr_05.jpg"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Thor Odinson",
+    "heroName": "Thor",
+    "description": "The son of Odin uses his mighty abilities as the God of Thunder to protect his home Asgard and planet Earth alike.",
+    "backgroundImageUrl": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/004tho_com_mas_dsk_02.jpg",
+    "powers": [
+      {
+        "powerName": "Mjolnir",
+        "powerDescription": "Thor’s signature weapon is Mjolnir, which he uses to summon rain, wind, lightning, and thunder, and also allows him to blast or contain energy beams. The hammer can only be lifted y those worthy of its power.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/004tho_com_pwr_01_0.jpg"
+      },
+      {
+        "powerName": "Superhuman Strength",
+        "powerDescription": "As a God, Thor ages at an incredibly slow pace, allowing him to live for millennia. Similarly, he possesses the stamina, durability, and speed of a divine warrior, and is among the strongest beings in the universe.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/004tho_com_pwr_02_0.jpg"
+      },
+      {
+        "powerName": "Hand-To-Hand Combat",
+        "powerDescription": "Thor Odinson is a gifted combatant. His ancient skills and experience in combat pair with his enormous might to make him one of the finest fighters in existence.",
+        "powerBackgroundImage": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/004tho_com_pwr_03_0.jpg"
+      }
+    ]
+  }
+]

@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.max-width {
+  max-width: 1200px;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.max-width-text {
+  max-width: 800px;
+}

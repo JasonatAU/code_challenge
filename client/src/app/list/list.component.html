@@ -1,1 +1,20 @@
-
+<div>
+  <div class="w-100 max-height d-flex flex-row justify-content-center align-items-center overflow-hidden">
+    <img class="w-100" src="../../assets/Marvel.png">
+  </div>
+  <div class="font-weight-bold text-center my-3" style="font-size: 80px;">MARVEL HEROES</div>
+  <div *ngIf="heroes" class="max-width mx-auto d-flex flex-row justify-content-start align-items-start flex-wrap">
+    <ng-container *ngFor="let hero of heroes">
+      <div class="col-12 col-sm-6 col-md-4 mt-4 px-2">
+        <div class="card">
+          <img class="card-img-top" [src]="hero.backgroundImageUrl" alt="Card image cap">
+          <div class="card-body">
+            <h5 class="card-title">{{hero.heroName}}</h5>
+            <p class="card-text">{{hero.description}}</p>
+            <a class="btn btn-primary" (click)="navigateToDetails(hero)">Details</a>
+          </div>
+        </div>
+      </div>
+    </ng-container>
+  </div>
+</div>

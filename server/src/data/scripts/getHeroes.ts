@@ -1,9 +1,10 @@
 const puppeteer = require("puppeteer");
 import { writeFile } from "fs";
 import { resolve } from "path";
-import Hero from "../../models/hero";
+import { Hero } from "../../models/hero";
 
 async function getHeroes() {
+  console.error('Start fetching data');
   const START_URL = "https://www.marvel.com/characters";
   const heroes: Hero[] = [];
 
@@ -17,8 +18,23 @@ async function getHeroes() {
   
   console.log('Getting heroes from website', START_URL);
   await page.goto(START_URL);
-
-  await page.waitForSelector("body");
+  const evaluateFunction = () => {
+    const grabFromRow = (row, classname) => row.querySelector(`td.${classname}`).innerText.trim();
+    const TEAM_ROW_SELECTOR = 'tr.team';
+    const data = [];
+    const teamRows = document.querySelectorAll((TEAM_ROW_SELECTOR));
+    for (const tr of teamRows) {
+      data.push({
+        name: grabFromRow(tr, 'name'),
+        year: grabFromRow(tr, 'year'),
+        wins: grabFromRow(tr, 'wins'),
+        losses: grabFromRow(tr, 'losses'),
+      });
+    }
+    return data;
+  };
+  const teams = await page.evaluate(evaluateFunction);
+  console.log(teams);
 
 
   await browser.close();

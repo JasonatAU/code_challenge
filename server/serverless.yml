@@ -7,7 +7,7 @@ service: node-typescript-serverless
 
 provider:
   name: aws # Provider name, where the infrastructure has be created
-  runtime: nodejs8.10 # The node version where the lambda functions going to run
+  runtime: nodejs12.x # The node version where the lambda functions going to run
   stage: dev # Control the environment of application
   region: us-east-1 # Default region where the lambda functions running
 
